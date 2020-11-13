@@ -32,7 +32,7 @@ go through above notebook to understand how we use CNNs to capture defect on ste
 ## Results
 
 * Results from UNet
-![](images/img_5.png)
+
 ![](images/img_3.png)
 ![](images/img_4.png)
 
